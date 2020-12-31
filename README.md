@@ -4,11 +4,13 @@ Chat App w/ Firebase
 ## Features:
 
 **Send text and image messages**
+
 **Customize your profile**
+
 **Receive realtime notifications**
 
 
-### Steps to make it work: 
+## Steps to make it work: 
 
 **Connecting Firebase:**
 
