@@ -17,6 +17,7 @@ Chat App w/ Firebase
 1. Connect Firebase to this app: *https://firebase.google.com/docs/android/setup*
 2. Enable the database, authentication and FCM services of Firebase.
 
+
 **Get the Maps Api credentials:**
 
 1. Log in to Google Cloud Platform console. 
@@ -24,6 +25,7 @@ Chat App w/ Firebase
 2. Enable Maps api.
 3. Create a credential for Maps api and copy it.
 4. Goto res/strings.xml in Android Studio and create a string resource with name 'google_maps_key' with the api key as value
+
 
 **Get the Firebase server key for FCM:**
 
