@@ -2,7 +2,7 @@
 Chat App w/ Firebase
 
 
-###Steps to make it work: 
+### Steps to make it work: 
 
 ** Connecting Firebase: **
 
