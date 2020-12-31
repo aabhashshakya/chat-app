@@ -196,7 +196,7 @@ class MessageAdapter(
                 //navigating to full image view fragment
                 val action = MessageFragmentDirections
                     .actionMessageFragmentToFullImageViewFragment(messagesList[adapterPosition].imageUrl)
-                it.rootView.findNavController().navigate(action)
+                it.findNavController().navigate(action)
 
             }
 
