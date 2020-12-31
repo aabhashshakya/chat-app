@@ -92,7 +92,7 @@ class MessageAdapter(
                             .error(R.drawable.ic_baseline_error_24)
                             .placeholder(R.drawable.coverimage)
                             .into(this.binding.rightImageView)
-                        Log.d(TAG, "onBindViewHolder: Image message loaded")
+                        Log.d(TAG, "onBindViewHolder: Image message is loaded")
                         this.binding.rightMessageCardView.visibility = GONE
                         //CONTINUING ON ABOVE RANT, YOU MIGHT THINK WHY TO SET THE IMAGECARDVIEW TO VISIBLE HERE AS IT ALREADY VISIBLE
                         //BY DEFAULT AND THIS IS THE FIRST IF CONDITION RIGHT, WRONG!!!! // IF THIS CONDITION IS NOT MET, THE ELSE
