@@ -18,7 +18,7 @@ Chat App w/ Firebase
 2. Enable the database, authentication and FCM services of Firebase.
 
 
-**Get the Maps Api credentials:**
+**Get the Maps api credentials:**
 
 1. Log in to Google Cloud Platform console. 
 2. Create a new project.
